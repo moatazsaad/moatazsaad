@@ -1,16 +1,20 @@
-## Hi there 👋
+# Moataz Abdelaziz  
+AI / Machine Learning Engineer  
 
-<!--
-**moatazsaad/moatazsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-ready AI systems including RAG pipelines, LLM applications, and data-driven solutions.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, SQL  
+- Machine Learning, Deep Learning  
+- LLMs, RAG, AI Agents  
+- FastAPI, Docker  
+- AWS, GCP  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [HR RAG System](https://github.com/moatazsaad/hr-rag-system) – LLM-powered HR assistant  
+- [Legal AI Assistant](https://github.com/moatazsaad/legal-ai-assistant) – document-based legal Q&A  
+- [Face Verification System](https://github.com/moatazsaad/face-verification-system) – similarity-based CV model  
+- [Market Intelligence AI System](https://github.com/moatazsaad/autonomous-market-competitive-intelligence-ai-system) – multi-agent research system  
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/moataz-saadeldin-788485166
