@@ -4,11 +4,11 @@ AI / Machine Learning Engineer
 I build production-ready AI systems including RAG pipelines, LLM applications, and data-driven solutions.
 
 ## 🔧 Skills
-- Python, SQL  
-- Machine Learning, Deep Learning  
-- LLMs, RAG, AI Agents  
-- FastAPI, Docker  
-- AWS, GCP  
+- **Languages:** Python, SQL  
+- **Machine Learning:** Regression, Classification, Clustering, Deep Learning  
+- **Generative AI:** LLMs, RAG, AI Agents, Fine-tuning (LoRA, QLoRA)  
+- **Frameworks & Tools:** FastAPI, LangChain, CrewAI, AutoGen, MCP  
+- **Cloud & Deployment:** AWS, GCP, Docker, Kubernetes, REST APIs     
 
 ## 🚀 Featured Projects
 - [HR RAG System](https://github.com/moatazsaad/hr-rag-system) – LLM-powered HR assistant  
