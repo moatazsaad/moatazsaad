@@ -1,14 +1,14 @@
 # Moataz Saadeldin  
 Machine Learning & AI Engineer building RAG pipelines, LLM-powered systems, AI agents, and scalable data-driven applications.
 
-## 🔧 Skills
+## Skills
 - **Languages:** Python, SQL  
 - **Machine Learning:** Regression, Classification, Clustering, Deep Learning  
 - **Generative AI:** LLMs, RAG, AI Agents, Fine-tuning (LoRA, QLoRA)  
 - **Frameworks & Tools:** FastAPI, LangChain, CrewAI, AutoGen  
 - **Cloud & Deployment:** AWS, GCP, Docker, Kubernetes, REST APIs     
 
-## 🚀 Featured Projects
+## Featured Projects
 - **AI Operations Automation Agent** – LLM-powered agent automating business workflows, reporting, and Slack integrations  
   https://github.com/moatazsaad/ai-operations-automation-agent  
 
@@ -21,6 +21,6 @@ Machine Learning & AI Engineer building RAG pipelines, LLM-powered systems, AI a
 - **Market Intelligence AI System** – Multi-agent system for automated market research  
   https://github.com/moatazsaad/autonomous-market-competitive-intelligence-ai-system  
 
-## 📫 Contact
+## Contact
 - LinkedIn: https://linkedin.com/in/moataz-saadeldin-788485166  
 - YouTube: https://www.youtube.com/@moataz19888 (AI projects & demos)
