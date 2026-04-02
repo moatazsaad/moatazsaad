@@ -1,11 +1,12 @@
 # Moataz Saadeldin  
-Machine Learning & AI Engineer building RAG pipelines, LLM-powered systems, AI agents, and scalable data-driven applications.
+MS AI Student @ UMD | Data Science, Machine Learning & AI Engineer building data-driven applications, predictive models, RAG pipelines, LLM-powered systems and AI agents.
 
 ## Skills
-- **Languages:** Python, SQL  
+- **Languages:** Python, SQL
+- **Data Science & Analytics:** Data Cleaning, Exploratory Data Analysis, Data Visualization, Statistical Analysis, Feature Engineering   
 - **Machine Learning:** Regression, Classification, Clustering, Deep Learning  
 - **Generative AI:** LLMs, RAG, AI Agents, Fine-tuning (LoRA, QLoRA)  
-- **Frameworks & Tools:** FastAPI, LangChain, CrewAI, AutoGen  
+- **Frameworks & Tools:** FastAPI, LangChain, CrewAI, MCP  
 - **Cloud & Deployment:** AWS, GCP, Docker, Kubernetes, REST APIs     
 
 ## Featured Projects
