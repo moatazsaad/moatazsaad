@@ -1,5 +1,5 @@
 # Moataz Saadeldin  
-MS AI Student @ UMD | Data Science, Machine Learning & AI Engineer building data-driven applications, predictive models, RAG pipelines, LLM-powered systems, and AI agents.
+MS AI Student @ UMD | Data Science, Machine Learning & AI Engineer building data-driven applications, predictive models, RAG pipelines, LLM-powered systems and AI agents.
 
 ## Skills
 - **Languages:** Python, SQL  
