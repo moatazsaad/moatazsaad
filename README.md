@@ -16,7 +16,7 @@ MS AI Student @ UMD | Machine Learning & AI Engineer building data driven applic
 - **HR RAG System** – Retrieval-based HR assistant for document search and question answering using embeddings and LLMs  
   https://github.com/moatazsaad/hr-rag-system  
 
-- **Legal AI Assistant** – End to end deployed RAG system on AWS & GCP for contract Q&A, using embeddings and LLMs with evaluation (Recall@3: 0.95, MRR@5: 0.925) to deliver accurate, explainable answers
+- **Legal AI Assistant** – End to end deployed RAG system on AWS & GCP for contract Q&A, using embeddings and LLMs with evaluation (Recall@3: 0.95, MRR@5: 0.925) to deliver accurate, explainable answers        
   https://github.com/moatazsaad/legal-ai-assistant  
 
 - **Market Intelligence AI System** – Multi-agent system for automated market research and competitor analysis  
