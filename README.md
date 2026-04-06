@@ -1,5 +1,5 @@
 # Moataz Saadeldin  
-MS AI Student @ UMD | Data Science, Machine Learning & AI Engineer building data-driven applications, predictive models, RAG pipelines, LLM-powered systems and AI agents.
+MS AI Student @ UMD | Machine Learning & AI Engineer building data driven applications, predictive models, RAG pipelines, LLM powered systems and AI agents.
 
 ## Skills
 - **Languages:** Python, SQL  
@@ -10,13 +10,13 @@ MS AI Student @ UMD | Data Science, Machine Learning & AI Engineer building data
 - **Cloud & Deployment:** AWS, GCP, Docker, Kubernetes, REST APIs     
 
 ## Featured Projects
-- **AI Operations Automation Agent** – Data-driven automation system using LLMs, SQL, and Slack integrations for KPI reporting and business workflows  
+- **AI Operations Automation Agent** – Data-driven automation system using LLMs, SQL and Slack integrations for KPI reporting and business workflows  
   https://github.com/moatazsaad/ai-operations-automation-agent  
 
 - **HR RAG System** – Retrieval-based HR assistant for document search and question answering using embeddings and LLMs  
   https://github.com/moatazsaad/hr-rag-system  
 
-- **Legal AI Assistant** – Data-centric legal Q&A system combining retrieval, embeddings, and LLMs for contract analysis  
+- **Legal AI Assistant** – Data-centric legal Q&A system combining retrieval, embeddings and LLMs for contract analysis  
   https://github.com/moatazsaad/legal-ai-assistant  
 
 - **Market Intelligence AI System** – Multi-agent system for automated market research and competitor analysis  
