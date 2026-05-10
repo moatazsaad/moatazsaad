@@ -2,16 +2,17 @@
 MS AI Student @ UMD | AI Engineer building data driven applications, predictive models, RAG pipelines, LLM-powered systems and AI agents.
 
 ## Skills
-- **Languages:** Python, SQL  
-- **Data Science & Analytics:** Data Cleaning, EDA, Data Visualization, Statistical Analysis, Feature Engineering  
-- **Machine Learning:** Regression, Classification, Clustering, Deep Learning  
-- **Generative AI:** LLMs, RAG, AI Agents, Fine-tuning (LoRA, QLoRA)  
-- **Frameworks & Tools:** Pandas, NumPy, Scikit-learn, FastAPI, LangChain, CrewAI  
-- **Cloud & Deployment:** AWS, GCP, Docker, Kubernetes, REST APIs     
+- **Languages:** Python, SQL
+- **AI & Generative AI:** LLMs, RAG, AI Agents, MCP, LangChain, CrewAI, Fine-tuning, LoRA, QLoRA
+- **Machine Learning:** Regression, Classification, Clustering, Deep Learning, Model Evaluation
+- **Data Science & Analytics:** Data Cleaning, EDA, Data Visualization, Statistical Analysis, Feature Engineering
+- **Backend & APIs:** FastAPI, REST APIs, PostgreSQL, Pydantic
+- **Frameworks & Tools:** Pandas, NumPy, Scikit-learn
+- **Cloud & Deployment:** AWS, GCP, Docker, Kubernetes    
 
 ## Featured Projects
-- **AI Operations Automation Agent** – Data driven automation system using LLMs, SQL and Slack integrations for KPI reporting and business workflows  
-  https://github.com/moatazsaad/ai-operations-automation-agent  
+- **AI Operations Automation Agent** – AI-powered operations and procurement automation platform with FastAPI, PostgreSQL, MCP tools, Slack workflows, scheduled reporting, and a Streamlit dashboard.  
+  https://github.com/moatazsaad/ai-operations-automation-agent 
 
 - **HR RAG System** – Retrieval based HR assistant for document search and question answering using embeddings and LLMs  
   https://github.com/moatazsaad/hr-rag-system  
