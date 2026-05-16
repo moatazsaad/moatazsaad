@@ -11,7 +11,7 @@ MS AI Student @ UMD | AI Engineer building data driven applications, predictive 
 - **Cloud & Deployment:** AWS, GCP, Docker, Kubernetes    
 
 ## Featured Projects
-- **AI Operations Automation Agent** – AI-powered operations and procurement automation platform with FastAPI, PostgreSQL, MCP tools, Slack workflows, scheduled reporting, and a Streamlit dashboard
+- **AI Operations Automation Agent** – AI-powered operations and procurement automation platform with FastAPI, PostgreSQL, MCP tools, Slack workflows, scheduled reporting, and a Streamlit dashboard.
   Live Demo: http://18.212.227.182:8501/   
   https://github.com/moatazsaad/ai-operations-automation-agent
 
