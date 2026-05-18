@@ -12,7 +12,7 @@ MS AI Student @ UMD | AI Engineer building data driven applications, predictive 
 
 ## Featured Projects
 - **AI Operations Automation Agent** – AI-powered operations and procurement automation platform with FastAPI, PostgreSQL, MCP tools, Slack workflows, scheduled reporting, and a Streamlit dashboard.
-  Live Demo: [http://54.160.212.48](https://aiops.moatazai.com)  
+  Live Demo: [[http://54.160.212.48](https://aiops.moatazai.com) ](https://aiops.moatazai.com) 
   https://github.com/moatazsaad/ai-operations-automation-agent
 
 - **Legal AI Assistant** – End to end deployed RAG system on AWS & GCP for contract Q&A, using embeddings and LLMs with evaluation (Recall@3: 0.95, MRR@5: 0.925) to deliver accurate, explainable answers        
