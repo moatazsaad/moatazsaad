@@ -11,9 +11,9 @@ MS AI Student @ UMD | AI Engineer building data driven applications, predictive 
 - **Cloud & Deployment:** AWS, GCP, Docker, Kubernetes    
 
 ## Featured Projects
-- **AI Operations Automation Agent** – AI-powered operations and procurement automation platform that helps managers ask business questions in plain English and receive KPI, supplier, inventory, spend, and risk insights. Built with FastAPI, PostgreSQL, MCP tools, Slack workflows, scheduled reporting, and a Streamlit dashboard. Deployed on AWS EC2 with Nginx, HTTPS, Cloudflare domain, and secured internal app ports.  
-  Live Demo: https://aiops.moatazai.com/
-  https://github.com/moatazsaad/ai-operations-automation-agent
+- **AI Operations Automation Agent** – AI-powered operations and procurement automation platform that helps managers ask business questions in plain English and receive KPI, supplier, inventory, spend, and risk insights. Built with FastAPI, PostgreSQL, MCP tools, Slack workflows, scheduled reporting, and a Streamlit dashboard. Deployed on AWS EC2 with Nginx, HTTPS, Cloudflare domain, and secured internal app ports.
+  - **Live Demo:** https://aiops.moatazai.com/
+  - **GitHub:** https://github.com/moatazsaad/ai-operations-automation-agent
 
 - **Legal AI Assistant** – End to end deployed RAG system on AWS & GCP for contract Q&A, using embeddings and LLMs with evaluation (Recall@3: 0.95, MRR@5: 0.925) to deliver accurate, explainable answers        
   https://github.com/moatazsaad/legal-ai-assistant  
